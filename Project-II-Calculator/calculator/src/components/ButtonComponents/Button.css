@@ -1,0 +1,43 @@
+.grayBtn{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+
+.button-container {
+    height: 100px;
+    display: flex;
+  }
+  
+  .grayBtn {
+    width: 100px;
+    border: 1px solid lightgray
+  }
+  
+  .largeBtn {
+    width: 300px;
+    border: 1px solid lightgray;
+  }
+  
+  .redBtn {
+    background: #9e0523;
+    color: #ffffff;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-weight: 200;
+    width: 100px;
+  }
+  .num-button {
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-weight: 200;
+  }
+  
+  .clearText {
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-weight: 200;
+  }
